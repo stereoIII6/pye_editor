@@ -1,7 +1,30 @@
 # PYE EDITOR
 
 
-<p> Fractional Interactive Non Fungible Tokens </p>
+<p>  hello world
+     im stereoIII6 from Berlin city
+     im on team fraxio big shoutout
+ 
+     interactive dynamic nfts pye tokens
+     several layers 
+     images uploaded to ipfs
+     decentral filestorage immutable
+     pye editor reads real world data 
+     from chainlink oracle 
+     deployed on 
+     avalanche fuji testnet
+     polygon mumbai testnet
+     rinkeby testnet
+     and on xdai mainnet 
+     
+     irvin - inspired us genius idea
+     xnode - every single vuln , marketplace
+     killer - supported me nonstop pye editor
+     louell - media and communication
+     stereo - pye editor, fraxionizer,
+     
+     
+  
 <p> An NFT Editor that enables you to design multiple layers of Interactive Art. </p>
 
 <br/>
